@@ -1,0 +1,8 @@
+<nav>
+    <h1 routerLink="/">{{ title$ | async }}</h1>
+    <button 
+        routerLink="movies/add" 
+        *ngIf="!getRouter().url.includes('movies/add')">
+        Add
+    </button>
+</nav>

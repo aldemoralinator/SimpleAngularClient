@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "movie name 1",
+      "genre": "genre 1",
+      "image": "https://picsum.photos/id/237/200/300",
+      "releaseYear": "1996"
+    },
+    {
+      "id": 2,
+      "name": "movie name 2",
+      "genre": "genre 2",
+      "image": "https://picsum.photos/id/237/200/300",
+      "releaseYear": "1997"
+    },
+    {
+      "id": 3,
+      "name": "movie name 3",
+      "genre": "genre 3",
+      "image": "https://picsum.photos/id/237/200/300",
+      "releaseYear": "19988"
+    },
+    {
+      "id": 4,
+      "name": "movie name 4",
+      "genre": "genre 4",
+      "image": "https://picsum.photos/id/237/200/300",
+      "releaseYear": "1999"
+    },
+    {
+      "id": 5,
+      "name": "movie name 5",
+      "genre": "genre 5",
+      "image": "https://picsum.photos/id/237/200/300",
+      "releaseYear": "2000"
+    },
+    {
+      "name": "a",
+      "image": "asd",
+      "genre": "asd",
+      "releaseYear": "asd",
+      "id": 6
+    }
+  ]
+}

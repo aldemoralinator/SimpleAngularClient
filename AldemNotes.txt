@@ -1,0 +1,20 @@
+ng g m Movie // create module.
+
+ng g c MovieList // create component. Do this on the Movie folder.
+
++movie.id // the + sign converts string to number
+
+
+COOL TO KNOW::
+
+
+*   Make your own mock json server using json-server
+
+    1. db.json // create on root folder
+
+    2. npm i json-server -D // on root folder
+
+    3. "api" : "json-server db.json" // on package.json inside script
+
+    3. npm run api
+
